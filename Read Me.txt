@@ -1,0 +1,17 @@
+/*     Nanotoken Faucet Script     */
+/*      Provided by: [zelles]      */
+/*  Do not remove these comments.  */
+
+To install
+
+01. Create a database to use with the faucet.
+02. Import \ServerRoot\db.sql in to you database you created and then delete db.sql
+03. Edit \ServerRoot\private_html\config.php with your database and coins RPC credentials.
+04. Upload \private_html\ and \public_html\ to your servers root directory.
+05. Your domain should be aimed at \public_html\, keeping \private_html\ out of the public scope.
+
+That is it. Your script should now be ready to use.
+
+The faucet is set to send from the account "" by default. So create an addres with no label in 
+the client, or using command line use "" as the acount name. Coins sent to that account are the 
+coins used in/sent from the faucet.
