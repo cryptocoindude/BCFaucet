@@ -1,12 +1,13 @@
 <?php
 require_once'../private_html/configuration.php';
+
 /*     Nanotoken Faucet Script     */
 /*      Provided by: [zelles]      */
 /*  Do not remove these comments.  */
 ?>
 <html>
 <head>
-   <title>Nanotoken Faucet</title>
+   <title>KaChingCoin Faucet</title>
    <style>
       .backing {
          background: #444444;
@@ -106,25 +107,26 @@ require_once'../private_html/configuration.php';
             <input type="hidden" name="nanoaction" value="faucet">
             <table class="roundit" style="height: 160px; width: 440px;">
                <tr>
-                  <td align="left" style="height: 30px; font-weight: bold;"><a href="index.php" style="color: #0F0F0F; text-decoration: none;">Request Free Nanotokens</a></td>
+                  <td align="left" style="height: 30px; font-weight: bold;"><a href="index.php" style="color: #0F0F0F; text-decoration: none;">Request Free KaChingCoins</a></td>
                   <td align="right" style="height: 30px;"><b>Balance: </b><?php echo $nanotokend->getbalance(""); ?></td>
                </tr><tr>
-                  <td align="right" colspan="2"><input type="text" name="nanoaddr" class="fancypants" placeholder="MuBGemufZ56GB5eQdqpYF1hgZEjtJCLQEN" autofocus required></td>
+                  <td align="right" colspan="2"><input type="text" name="nanoaddr" class="fancypants" placeholder="8FXXtCPrv39QrstZjiZJ5rEHJdMEjJEJyP" autofocus required></td>
                </tr><tr>
-                  <td align="right" colspan="2" style="height: 30px;"><input type="submit" name="submit" value="Send <?php echo $payout_amount; ?> NAN" class="button"></td>
+                  <td align="right" colspan="2" style="height: 30px;"><input type="submit" name="submit" value="Send <?php echo $payout_amount; ?> KAC" class="button"></td>
                </tr><tr>
-                  <td align="left" colspan="2" style="height: 20px; font-weight: bold;">Nanotoken services:</td>
+                  <td align="left" colspan="2" style="height: 20px; font-weight: bold;">KaChingCoin services:</td>
                </tr><tr>
-                  <td align="left" colspan="2" style="height: 20px;">Block Explorer: <a href="http://blockexplorer.coinworld.us/chain/Nanotoken" target="_blank" style="color: #0F0F0F;">http://blockexplorer.coinworld.us/chain/Nanotoken</a></td>
+                  
                </tr><tr>
-                  <td align="left" colspan="2" style="height: 20px;">Mining Pool: <a href="http://coinworld.us:8884/static/" target="_blank" style="color: #0F0F0F;">http://coinworld.us:8884/static/</a></td>
+                  <td align="left" colspan="2" style="height: 20px;">Mining Pool: <a href="http://5.45.108.127:3384" target="_blank" style="color: #0F0F0F;">http://5.45.108.127:3384</a></td>
+
                </tr>
             </table>
             </form>
-            Get your Nanotoken wallet at <a href="https://cryptocointalk.com/topic/765-nanotoken-nan-information/" target="_blank" style="color: #FFFFFF;">cryptocointalk.com</a>
+            Get your KaChingCoin wallet at <a href="http://kachingcoin.us/Downloads/" target="_blank" style="color: #FFFFFF;">the official KaChingCoin website</a>
          </td>
       </tr>
    </table>
-   <div align="right" style="position: fixed; bottom: 10px; right: 10px; width: 440px; height: 20px; font-size: 14px;">Donations: MuBGemufZ56GB5eQdqpYF1hgZEjtJCLQEN</div>
+   <div align="center" style="position: fixed; bottom: 10px; center: 0px; width: 440px; height: 20px; font-size: 16px;">Donations: 8FEAiotXB8ic35vsBTf1tD7KJnucaRCAwo</div>
 </body>
 </html>

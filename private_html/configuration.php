@@ -35,7 +35,7 @@ if($Take_Action=="faucet") {
                   $body = '<table class="roundit" style="height: 100px; width: 440px">
                               <tr>
                                  <td align="center" valign="middle">
-                                    Success, Nanotokens sent.<br>
+                                    Success, KaChingCoins sent!<br>
                                     Come back for more tomorrow.<br>
                                     View your Transaction ID below:
                                  </td>
