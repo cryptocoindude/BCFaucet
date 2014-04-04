@@ -46,7 +46,7 @@ if($Take_Action=="faucet") {
                   $body = '<table class="roundit" style="height: 100px; width: 440px">
                              <tr>
                                  <td align="center" valign="middle">
-                                    You already requested Nanotokens today.<br>
+                                    You already requested KaChingCoins today.<br>
                                     Come back for more tomorrow.
                                  </td>
                               </tr>
@@ -56,7 +56,7 @@ if($Take_Action=="faucet") {
                $body = '<table class="roundit" style="height: 100px; width: 440px">
                           <tr>
                               <td align="center" valign="middle">
-                                 You already requested Nanotokens today.<br>
+                                 You already requested KaChingCoins today.<br>
                                  Come back for more tomorrow.
                               </td>
                            </tr>
@@ -66,7 +66,7 @@ if($Take_Action=="faucet") {
             $body = '<table class="roundit" style="height: 100px; width: 440px">
                         <tr>
                            <td align="center" valign="middle">
-                              You already requested Nanotokens today.<br>
+                              You already requested KaChingCoins today.<br>
                               Come back for more tomorrow.
                            </td>
                         </tr>
