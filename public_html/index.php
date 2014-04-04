@@ -107,7 +107,10 @@ require_once'../private_html/configuration.php';
             <form method="POST" action="index.php" style="padding: 0px; margin: 0px;">
             <input type="hidden" name="nanoaction" value="faucet">
             <table class="roundit" style="height: 160px; width: 440px;">
-               <tr>
+               <iframe scrolling="no" style="border: 0; width: 728px; height: 90px;" src="//coinurl.com/get.php?id=25342"></iframe>
+ 	           <br>
+                   <br>
+                  <tr>
                   <td align="left" style="height: 30px; font-weight: bold;"><a href="index.php" style="color: #0F0F0F; text-decoration: none;">Request Free KaChingCoins</a></td>
                   <td align="right" style="height: 30px;"><b>Balance: </b><?php echo $nanotokend->getbalance(""); ?></td>
                </tr><tr>
@@ -127,13 +130,17 @@ require_once'../private_html/configuration.php';
                   <td align="left" colspan="2" style="height: 0px;"><a href="http://cryptofury.com/forums/forum/giveaways/" target="_blank" style="color: #0F0F0F;">Click here for more!</a></td>
 
                </tr>
+             </table>
+             <br>
+             <table>
+              <td>
+<iframe scrolling="no" style="border: 0; width: 234px; height: 60px;" src="//coinurl.com/get.php?id=25341"></iframe>
             </table>
+             <br>
             </form>
-            <br>
-            Get your KaChingCoin wallet at <a href="http://kachingcoin.us/Downloads/" target="_blank" style="color: #FFFFFF;">the official KaChingCoin website!</a>
+            Get your KaChingCoin wallet at <a href="http://kachingcoin.us/Downloads/" target="_blank" style="color: #fFFFFF;">the official KaChingCoin website!</a>
+  <br>
          </td>
-         <br>
-        <br>          
       </tr>
    </table>
    <div align="left" style="position: fixed; bottom: 150px; left: 200px; width: 440px; height: 20px; font-size: 16px;">Donate KaChingCoins to keep the faucet alive: 8FEAiotXB8ic35vsBTf1tD7KJnucaRCAwo</div>
