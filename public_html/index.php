@@ -357,7 +357,7 @@ Donate KaChingCoins to keep the faucet alive: 8FEAiotXB8ic35vsBTf1tD7KJnucaRCAwo
 <br>
 <br>
 
-Donate KaChingCoins the faucet developer: 8QHnihW7uzPuvzmzDvpSQfRtt2XCFbVoj</div>
+Donate KaChingCoins the faucet developer: 8QHnihW7uzPuvzmzDvpSGQfRtt2XCFbVoj</div>
 
 </body>
 
