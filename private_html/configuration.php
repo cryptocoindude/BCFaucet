@@ -2,6 +2,7 @@
 error_reporting(0);
 require_once'../private_html/jsonRPCClient.php';
 require_once'../private_html/config.php';
+require_once'../private_html/ayah.php';
 
 /*     Nanotoken Faucet Script     */
 /*      Provided by: [zelles]      */
