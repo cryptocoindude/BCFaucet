@@ -17,19 +17,19 @@ require_once'../private_html/configuration.php';
 
          background: #cc0000;
 
-         background: -moz-linear-gradient(top,  #cc0000 0%, #140000 100%);
+         background: -moz-linear-gradient(top,  #cc0000 0%, #FFFFFF 100%);
 
-         background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#cc0000), color-stop(100%,#140000));
+         background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#cc0000), color-stop(100%,#FFFFFF));
 
-         background: -webkit-linear-gradient(top,  #cc0000 0%,#140000 100%);
+         background: -webkit-linear-gradient(top,  #cc0000 0%,#FFFFFF 100%);
 
-         background: -o-linear-gradient(top,  #cc0000 0%,#140000 100%);
+         background: -o-linear-gradient(top,  #cc0000 0%,#FFFFFF 100%);
 
-         background: -ms-linear-gradient(top,  #cc0000 0%,#140000 100%);
+         background: -ms-linear-gradient(top,  #cc0000 0%,#FFFFFF 100%);
 
-         background: linear-gradient(to bottom,  #cc0000 0%,#140000 100%);
+         background: linear-gradient(to bottom,  #cc0000 0%,#FFFFFF 100%);
 
-         filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#cc0000', endColorstr='#140000',GradientType=0 );
+         filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#cc0000', endColorstr='#FFFFFF',GradientType=0 );
 
       }
 
