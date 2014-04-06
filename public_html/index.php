@@ -11,7 +11,7 @@ require_once'../private_html/configuration.php';
 
 <head>
 
-            <title>KaChingCoin Faucet</title>
+            <title>BlackCoin Faucet</title>
 
             <style type="text/css">.backing {
 
@@ -203,7 +203,7 @@ require_once'../private_html/configuration.php';
 
                                     <td align="center" valign="middle">
 
-                                    <p><iframe scrolling="no" style="border: 0; width: 160px; height: 600px;" src="//coinurl.com/get.php?id=25343"></iframe></p>
+                                    <p><iframe scrolling="no" style="border: 0; width: 160px; height: 600px;" src="//coinurl.com/get.php?id=25377"></iframe></p>
 
  
                                     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
@@ -223,7 +223,7 @@ require_once'../private_html/configuration.php';
                                                 </tbody>
 
                                     </table>
-<iframe scrolling="no" align="center" src="//coinurl.com/get.php?id=25342" style="border-top: 0px; height: 90px; border-right: 0px; width: 728px; border-bottom: 0px; border-left: 0px"></iframe>
+<iframe scrolling="no" style="border: 0; width: 728px; height: 90px;" src="//coinurl.com/get.php?id=25376"></iframe>
 
 
  
@@ -236,7 +236,7 @@ require_once'../private_html/configuration.php';
 
                                                             <tr>
 
-                                                                        <td align="left" style="height: 30px; font-weight: bold"><a href="index.php" style="text-decoration: none; color: #0f0f0f">Request Free KaChingCoins</a></td>
+                                                                        <td align="left" style="height: 30px; font-weight: bold"><a href="index.php" style="text-decoration: none; color: #0f0f0f">Request Free BlackCoins</a></td>
 
                                                                         <td align="right" style="height: 30px"><b>Balance: </b>4942.7</td>
 
@@ -257,7 +257,7 @@ require_once'../private_html/configuration.php';
 
                                                             <tr>
 
-                                                                        <td align="left" colspan="2" style="height: 20px; font-weight: bold">KaChingCoin services:</td>
+                                                                        <td align="left" colspan="2" style="height: 20px; font-weight: bold">BlackCoin services:</td>
 
                                                             </tr>
 
@@ -313,13 +313,13 @@ require_once'../private_html/configuration.php';
 
                                     <p><br />
 
-                                    Get your KaChingCoin wallet at the official KaChingCoin website!</p>
+                                    Get your BlackCoin wallet at the official BlackCoin website!</p>
 
                                     </td>
 
                                     <td align="center" valign="middle">
 
-                                    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <iframe scrolling="no" style="border: 0; width: 160px; height: 600px;" src="//coinurl.com/get.php?id=25355"></iframe></iframe>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+                                    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <iframe scrolling="no" style="border: 0; width: 160px; height: 600px;" src="//coinurl.com/get.php?id=25375"></iframe></iframe>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 
                                     </td>
 
@@ -342,7 +342,7 @@ require_once'../private_html/configuration.php';
 <br>
 <br>
 
-Donate KaChingCoins to keep the faucet alive: 8FEAiotXB8ic35vsBTf1tD7KJnucaRCAwo</div>
+Donate BlackCoins to keep the faucet alive: 8FEAiotXB8ic35vsBTf1tD7KJnucaRCAwo</div>
 
  
 
@@ -357,7 +357,7 @@ Donate KaChingCoins to keep the faucet alive: 8FEAiotXB8ic35vsBTf1tD7KJnucaRCAwo
 <br>
 <br>
 
-Donate KaChingCoins the faucet developer: 8QHnihW7uzPuvzmzDvpSGQfRtt2XCFbVoj</div>
+Donate BlackCoins the faucet developer: 8QHnihW7uzPuvzmzDvpSGQfRtt2XCFbVoj</div>
 
 </body>
 

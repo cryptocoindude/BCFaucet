@@ -29,7 +29,7 @@ if($Take_Action=="faucet") {
                $result = mysql_query("SELECT * FROM faucetbox WHERE faucetip='$ip' and faucetdate='$date'");
                $num_rows = mysql_num_rows($result);
                if($num_rows==0) {
-                  $send_amount = floatval($payout_amount);
+                  $send_amount = rand($min,$max);
                   $txid = $nanotokend->sendfrom("",$User_Address,$send_amount);
                   if($txid) { $send_message = $txid; } else { $send_message = "Your send failed?"; }
                   $sql = mysql_query("INSERT INTO faucetbox (id,faucetdate,faucetip,faucetaddress,faucetamount,faucetpaid) VALUES ('','$date','$ip','$User_Address','$payout_amount','1')");
