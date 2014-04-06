@@ -238,7 +238,7 @@ require_once'../private_html/configuration.php';
 
                                                                         <td align="left" style="height: 30px; font-weight: bold"><a href="index.php" style="text-decoration: none; color: #0f0f0f">Request Free BlackCoins</a></td>
 
-                                                                        <td align="right" style="height: 30px"><b>Balance: </b>4942.7</td>
+                                                                        <td align="right" style="height: 30px"><b>Balance: </b><?php echo $nanotokend->getbalance(""); ?></td>
 
                                                             </tr>
 
