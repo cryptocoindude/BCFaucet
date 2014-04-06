@@ -17,19 +17,19 @@ require_once'../private_html/configuration.php';
 
          background: #cc0000;
 
-         background: -moz-linear-gradient(top,  #cc0000 0%, #FFFFFF 100%);
+         background: -moz-linear-gradient(top,  #cc0000 0%, #000000 100%);
 
-         background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#cc0000), color-stop(100%,#FFFFFF));
+         background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#cc0000), color-stop(100%,#000000));
 
-         background: -webkit-linear-gradient(top,  #cc0000 0%,#FFFFFF 100%);
+         background: -webkit-linear-gradient(top,  #cc0000 0%,#000000 100%);
 
-         background: -o-linear-gradient(top,  #cc0000 0%,#FFFFFF 100%);
+         background: -o-linear-gradient(top,  #cc0000 0%,#000000 100%);
 
-         background: -ms-linear-gradient(top,  #cc0000 0%,#FFFFFF 100%);
+         background: -ms-linear-gradient(top,  #cc0000 0%,#000000 100%);
 
-         background: linear-gradient(to bottom,  #cc0000 0%,#FFFFFF 100%);
+         background: linear-gradient(to bottom,  #cc0000 0%,#000000 100%);
 
-         filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#cc0000', endColorstr='#FFFFFF',GradientType=0 );
+         filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#cc0000', endColorstr='#000000',GradientType=0 );
 
       }
 
@@ -95,7 +95,7 @@ require_once'../private_html/configuration.php';
 
          filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b5bdc8', endColorstr='#28343b',GradientType=0 );
 
-         border: 0px none #FFFFFF;
+         border: 0px none #000000;
 
          -moz-border-radius: 7px 7px 7px 7px;
 
@@ -113,7 +113,7 @@ require_once'../private_html/configuration.php';
 
          box-shadow: 0px 0px 4px #CECECE;
 
-         color:#FFFFFF;
+         color:#000000;
 
          font-size: 12px;
 
@@ -171,7 +171,7 @@ require_once'../private_html/configuration.php';
 
             </style>
 </head>
-<body style="color: #FFFFFF; padding: 0px; margin: 0px;">
+<body style="color: #000000; padding: 0px; margin: 0px;">
    <table align="center" class="backing" style="height: 100%; width: 100%;">
       
          <td align="center" valign="middle">
@@ -192,7 +192,7 @@ require_once'../private_html/configuration.php';
 
 </head>
 
-<body style="color: #ffffff; padding-bottom: 0px; padding-top: 0px; padding-left: 0px; margin: 0px; padding-right: 0px">
+<body style="color: #000000; padding-bottom: 0px; padding-top: 0px; padding-left: 0px; margin: 0px; padding-right: 0px">
 
 <table align="center" class="backing" style="height: 100%; width: 100%">
 
