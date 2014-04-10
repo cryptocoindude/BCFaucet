@@ -251,7 +251,7 @@ require_once'../private_html/configuration.php';
                                                             <tr>
 
                                                             <td>
-<td align="right" colspan="2" style="height: 30px;"><input type="submit" name="submit" value="Send <?php echo $payout_amount; ?> KAC" class="button"></td>
+<td align="right" colspan="2" style="height: 30px;"><input type="submit" name="submit" value="Send <?php echo $payout_amount; ?> BC" class="button"></td>
 
                                                             </tr>
 
